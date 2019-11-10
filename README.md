@@ -1,2 +1,2 @@
 # PPL-Assignment
-Some basic C++ Programs
+Basic C++ Programs to show various concepts.
